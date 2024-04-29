@@ -11,5 +11,5 @@ This project demonstrates the implementation of system calls for Linux in C.
 * Implementation of the `sys_exit_group`. This system call is used to terminate the program with a specific exit code.
 
 <p align="center">
-  <img src="https://ltdfoto.ru/images/2024/04/29/ezgif-6-02d6927474.jpg">
+  <img src="https://ltdfoto.ru/images/2024/04/29/syscall.png">
 </p>
